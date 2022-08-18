@@ -18,7 +18,7 @@ BLOCK is the utility token that powers the Blocknet Protocol. Fees are paid in B
 | Difficulty               | Adjusted per block, currently 7,788                                                                                        |
 | Staking Requirement      | No minimum                                                                                                                 |
 | Service Node Requirement | 5000 BLOCK                                                                                                                 |
-| Circulation              | [Currently 8,973,656 BLOCK](https://chainz.cryptoid.info/block/)                                                           |
+| Circulation              | More info: [https://chainz.cryptoid.info/block/](https://chainz.cryptoid.info/block/#@inflation)                           |
 | Max Supply               | No maximum supply (PoS), but there is a maximum to inflation                                                               |
 | Circulation Lockup       | <p>Average lockup is ~45% due to Service Node collateral <br>Average lockup is ~60% when also considering staked funds</p> |
 
