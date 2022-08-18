@@ -55,7 +55,7 @@ The only thing guaranteed about the price of aaBLOCK is that it will be exactly 
 
 There is no fee for bridging BLOCK to aaBLOCK (a.k.a. wrapping BLOCK into aaBLOCK). However, when unwrapping aaBLOCK to redeem the BLOCK inside, there is a 0.1% "gateway" fee, payable in BLOCK. (min gateway fee = 5 BLOCK; min redeem amount = 10 BLOCK). Also, to cover gas fees, users should maintain a small amount of AVAX in their wallets.
 
-#### Add Liquidity on Pangolin <a href="#add-liquidity-on-pangolin" id="add-liquidity-on-pangolin"></a>
+### Add Liquidity on Pangolin <a href="#add-liquidity-on-pangolin" id="add-liquidity-on-pangolin"></a>
 
 1. Visit [Pangolin aaBLOCK Liquidity](https://app.pangolin.exchange/#/add/0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50/AVAX)
 2. Make sure your MetaMask1 wallet contains the aaBLOCK and AVAX you want to add to the liquidity pool.
