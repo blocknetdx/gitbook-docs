@@ -8,9 +8,14 @@
 * [Whitepaper](project/whitepaper.md)
 * [Exchanges](project/exchanges.md)
 * [Project Roadmap](project/project-roadmap.md)
-* [aBLOCK Token](project/ablock-token.md)
-* [aaBLOCK Token](project/aablock-token.md)
-* [Explorers](project/explorers.md)
+* [Contributors](project/contributors.md)
+
+## Blockchain
+
+* [Introduction](blockchain/introduction.md)
+* [aaBLOCK Token](blockchain/aablock-token.md)
+* [aBLOCK Token](blockchain/ablock-token.md)
+* [Explorers](blockchain/explorers.md)
 
 ## Protocol
 
@@ -56,7 +61,3 @@
   * [Auto-Deploy Service Node](service-nodes/automated-docker-based-service-node-setup/auto-deploy-service-node.md)
   * [Maintenance of Auto-Deployed Service Node](service-nodes/automated-docker-based-service-node-setup/maintenance-of-auto-deployed-service-node.md)
 * [Troubleshooting](service-nodes/troubleshooting.md)
-
-## Blockchain
-
-* [Introduction](blockchain/introduction.md)
