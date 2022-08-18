@@ -36,6 +36,7 @@
 * [Superblock](governance/superblock.md)
 * [View Proposals](governance/view-proposals.md)
 * [Create a Proposal](governance/create-a-proposal.md)
+* [Proposal Voting](governance/proposal-voting.md)
 
 ## Blocknet Wallet
 
