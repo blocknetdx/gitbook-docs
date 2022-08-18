@@ -13,9 +13,9 @@
 ## Blockchain
 
 * [Introduction](blockchain/introduction.md)
-* [aaBLOCK Token](blockchain/aablock-token.md)
-* [aBLOCK Token](blockchain/ablock-token.md)
-* [Explorers](blockchain/explorers.md)
+* [aaBLOCK Token](project/aablock-token.md)
+* [aBLOCK Token](project/ablock-token.md)
+* [Explorers](project/explorers.md)
 
 ## Protocol
 
