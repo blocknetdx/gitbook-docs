@@ -53,11 +53,11 @@ While there is no maximum limit due to the Blocknet blockchain being Proof of St
 In this first set of data, the inflation rate displayed takes into account **just block rewards**. The below data represents the minimum inflation possible.
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbCrSUOV9epKU0oB80iiyfZesLCPTCjt3e7laywu69X0os14tb9lLtb_XEDUptg/pubhtml/sheet?gid=493878028&headers=false" %}
-View data
+Click to view data
 {% endembed %}
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbCrSUOV9epKU0oB80iiyfZesLCPTCjt3e7laywu69X0os14tb9lLtb_XEDUptg/pubchart?format=interactive&oid=255649752" %}
-View data
+Click to view data
 {% endembed %}
 
 **Upper Bound of Inflation**
@@ -65,9 +65,9 @@ View data
 In this second set of data, the inflation rate displayed takes into account **both block rewards and the maximum** [**Superblocks**](https://docs.blocknet.co/governance/introduction#superblock) **amount**. It's important to note that the Superblock does not need to mint the full 40,000 BLOCK so in reality the inflation will likely never reach these levels. The below data represents the maximum inflation possible.
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbCrSUOV9epKU0oB80iiyfZesLCPTCjt3e7laywu69X0os14tb9lLtb_XEDUptg/pubhtml/sheet?headers=false&gid=974145469" %}
-View data
+Click to view data
 {% endembed %}
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbCrSUOV9epKU0oB80iiyfZesLCPTCjt3e7laywu69X0os14tb9lLtb_XEDUptg/pubchart?oid=1635035440&format=interactive" %}
-View data
+Click to view data
 {% endembed %}
