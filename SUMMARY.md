@@ -7,6 +7,7 @@
 * [Introduction](project/introduction.md)
 * [Whitepaper](project/whitepaper.md)
 * [Exchanges](project/exchanges.md)
+* [Project Roadmap](project/project-roadmap.md)
 * [aBLOCK Token](project/ablock-token.md)
 * [aaBLOCK Token](project/aablock-token.md)
 * [Explorers](project/explorers.md)
@@ -29,6 +30,13 @@
   * [XCloud API docs](https://api.blocknet.co/#xcloud-api)
 * [API Docs](https://api.blocknet.co)
 
+## Governance
+
+* [Introduction](governance/introduction.md)
+* [Superblock](governance/superblock.md)
+* [View Proposals](governance/view-proposals.md)
+* [Create a Proposal](governance/create-a-proposal.md)
+
 ## Blocknet Wallet
 
 * [Getting Started](blocknet-wallet/getting-started.md)
@@ -47,9 +55,3 @@
   * [Auto-Deploy Service Node](service-nodes/automated-docker-based-service-node-setup/auto-deploy-service-node.md)
   * [Maintenance of Auto-Deployed Service Node](service-nodes/automated-docker-based-service-node-setup/maintenance-of-auto-deployed-service-node.md)
 * [Troubleshooting](service-nodes/troubleshooting.md)
-
-## Governance
-
-* [Introduction](governance/introduction.md)
-* [Superblock](governance/superblock.md)
-* [View Proposals](governance/view-proposals.md)
