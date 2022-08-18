@@ -17,6 +17,8 @@ A Blocknet blockchain explorer, usually referred to as a block explorer, is used
 * Sending, receiving, and change addresses of a transaction
 * Superblock and block reward payouts
 
+{% hint style="info" %}
 _Note: A block explorer can only be used to explore blockchains it supports._
+{% endhint %}
 
 Most block explorers only support a single blockchain. This means that if you are using a Bitcoin explorer you will be unable to look up Blocknet transactions (or any other data pertaining to Blocknet).

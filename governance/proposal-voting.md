@@ -107,7 +107,7 @@ There are two Qt wallets, with the Redesign geared towards being more user frien
 
 <summary>Vote using the redesigned wallet</summary>
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image.png)
 
 1. Open the [wallet](https://docs.blocknet.co/wallet/setup) and in the side menu, go to _Proposals_. The wallet needs to be unlocked to cast votes.
 2.  The Proposals screen shows all the proposals submitted to the network. Above the list of proposals there is an option to filter by _Upcoming_, which displays the proposals that can currently be voted on. Select this filter to view all proposals currently open for voting.

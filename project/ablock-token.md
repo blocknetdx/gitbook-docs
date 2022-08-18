@@ -10,7 +10,7 @@ The only thing guaranteed about the price of aBLOCK is that it will be exactly e
 
 ### How to buy/trade the aBLOCK token on Uniswap <a href="#buytrade-ablock-on-uniswap" id="buytrade-ablock-on-uniswap"></a>
 
-#### First, set up MetaMask1 <a href="#first-set-up-metamask1" id="first-set-up-metamask1"></a>
+#### First, set up MetaMask <a href="#first-set-up-metamask1" id="first-set-up-metamask1"></a>
 
 1. Open Chrome, FireFox, Brave, or Edge browser, install [MetaMask](https://metamask.io/download.html)1 as a Browser Extension, then create a MetaMask1 wallet (if you haven't done so previously).
 2. Ensure the Network Dropdown at the top of MetaMask1 is set to _Ethereum Mainnet_, and that you have some ETH in your MetaMask1 wallet to cover gas fees.
