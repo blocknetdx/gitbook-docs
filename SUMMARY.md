@@ -5,6 +5,7 @@
 ## Project
 
 * [Introduction](project/introduction.md)
+* [Whitepaper](project/whitepaper.md)
 * [Exchanges](project/exchanges.md)
 * [aBLOCK Token](project/ablock-token.md)
 * [aaBLOCK Token](project/aablock-token.md)
